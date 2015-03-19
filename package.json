@@ -1,0 +1,16 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "Susy Starter that uses LibSass with Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Maiolini",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3",
+    "gulp-sourcemaps": "^1.5.1"
+  }
+}
